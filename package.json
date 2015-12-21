@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bebopchat/bebop-queue",
   "dependencies": {
     "firebase": "^2.3.2",
-    "firebase-queue": "^1.2.1"
+    "firebase-queue": "^1.2.1",
+    "q": "^1.4.1"
   }
 }
