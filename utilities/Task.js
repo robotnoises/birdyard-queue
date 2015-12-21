@@ -1,7 +1,8 @@
 // Task.js
 // Various Task-related utility methods
 
-var Firebase = require('firebase');
+var Firebase  = require('firebase');
+var Config    = require('./../config/Config');
 
 // Private
 
