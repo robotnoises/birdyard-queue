@@ -11,7 +11,8 @@ var Config    = require('./../config/Config');
 // Public
 
 var _TYPE = Object.freeze({
-  ORPHANED_NODE: 0
+  'ORPHANED_NODE': 0,
+  'CALC_ROOM_SCORES': 1
 });
 
 function _format(taskType, data) {
