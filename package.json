@@ -1,5 +1,5 @@
 {
-  "name": "bebop-queue",
+  "name": "bbop-queue",
   "version": "0.0.1",
   "description": "Dispatching and processing various tasks.",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bebopchat/bebop-queue.git"
+    "url": "https://github.com/bbop-chat/bbop-queue.git"
   },
   "author": "David Nichols",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bebopchat/bebop-queue/issues"
+    "url": "https://github.com/bbop-chat/bbop-queue/issues"
   },
-  "homepage": "https://github.com/bebopchat/bebop-queue",
+  "homepage": "https://github.com/bbop-chat/bbop-queue",
   "dependencies": {
     "firebase": "^2.3.2",
     "firebase-queue": "^1.2.1",
